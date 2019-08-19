@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="b_text0">0</string>
+    <string name="b_text1">1</string>
+    <string name="b_text2">2</string>
+    <string name="b_text3">3</string>
+    <string name="b_text4">4</string>
+    <string name="b_text5">5</string>
+    <string name="b_text6">6</string>
+    <string name="b_text7">7</string>
+    <string name="b_text8">8</string>
+    <string name="b_text9">9</string>
+    <string name="b_text10">DEL</string>
+    <string name="b_text11">*</string>
+    <string name="b_text12">#</string>
+    <string name="b_text13">CALL</string>
+    <string name="phoneHint">Phone No.</string>
+</resources>
